@@ -10,7 +10,7 @@ General concept:
 
 Requires ADIF Tools: https://github.com/JS2IIU-MH/adiftools-dev and PANDAS.
 
-adif2pickle.py -- cleanup of log, keeping only necessary fields
-attivatori-add.py -- add a pickled log into the master table of activators
-attivatori-show.py -- show master table of QSOs
-hunter.py -- cross check hunter log with the master table
+- adif2pickle.py -- cleanup of log, keeping only necessary fields
+- attivatori-add.py file.adi -- add a pickled log into the master table of activators
+- attivatori-show.py -- show master table of QSOs
+- hunter.py -- cross check hunter log with the master table
