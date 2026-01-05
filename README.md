@@ -7,3 +7,5 @@ Very early - non yet working stage.
 General concept:
 - add all activators logs into a master file
 - check hunters logs against master file
+
+Requires ADIF Tools: https://github.com/JS2IIU-MH/adiftools-dev
